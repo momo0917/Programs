@@ -2,6 +2,11 @@ Step left
 step right
 twirl your hands
 do the rainbow dance
+
+Do the rainbow dance
+do the rainbow dance
+so so fun
+do the rainbow dance
 function Setup(){
     Create canvas(600,400);
 }
