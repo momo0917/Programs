@@ -1,5 +1,7 @@
-
-
+Step left 
+step right
+twirl your hands
+do the rainbow dance
 function Setup(){
     Create canvas(600,400);
 }
