@@ -1,0 +1,10 @@
+
+
+function Setup(){
+    Create canvas(600,400);
+}
+
+function Draw(){
+    background(0,0,255)
+    elipse(400,600);
+}
